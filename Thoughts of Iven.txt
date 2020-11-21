@@ -1,8 +1,11 @@
 Here i will note all things i think of about the process of Programming this Endabgabe for Interface Design 
 
 1. First to Dos
-[] Set up Git Hub 
+[X] Set up Git Hub 
 [] Test Eingabe von Text und speicherung 
 [] Erstellung der nötigen server und MongoDB anbindung 
 [] Test der Ausgabe und passenden übersetzung des Morse Codes 
 
+*** Zu Test Einhabe
+
+- Eingabe ganz einfach nur direkt über die Tastatur. Also kein Sende Button, sondern direktes sennden
